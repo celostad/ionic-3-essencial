@@ -16,7 +16,7 @@ $paths = array(__DIR__ . '/src/Model');
 $dbParams = array(
     'driver'   => 'pdo_mysql',
     'user'     => 'root',
-    'password' => '',
+    'password' => '12340980',
     'dbname'   => 'api_master_2',
     'host'     => '127.0.0.1'
 );
